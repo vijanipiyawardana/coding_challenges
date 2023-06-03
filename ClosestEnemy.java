@@ -75,11 +75,8 @@ There can be zero or more enemy present in the array.
 
     public static void main(String[] args) {
         System.out.println("min distance :" + findClosestEnemy(new int[]{0, 2, 0, 0, 0, 1, 0, 2, 0}));
-        System.out.println();
         System.out.println("min distance :" + findClosestEnemy(new int[]{2, 0, 2, 0, 0, 1, 0, 0, 0}));
-        System.out.println();
         System.out.println("min distance :" + findClosestEnemy(new int[]{0, 1, 0}));
-        System.out.println();
         System.out.println("min distance :" + findClosestEnemy(new int[]{0, 0, 1, 0, 2, 2, 0}));
     }
  }
