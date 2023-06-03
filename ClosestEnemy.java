@@ -63,11 +63,11 @@ There can be zero or more enemy present in the array.
             minDistance = leftDistance; 
         }
 
-        System.out.println(myIndex);
-        System.out.println(leftEnemyIndex);
-        System.out.println(rightEnemyIndex);
-        System.out.println(leftDistance);
-        System.out.println(rightDistance);
+        // System.out.println(myIndex);
+        // System.out.println(leftEnemyIndex);
+        // System.out.println(rightEnemyIndex);
+        // System.out.println(leftDistance);
+        // System.out.println(rightDistance);
 
         return minDistance;
     }
