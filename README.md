@@ -8,8 +8,8 @@ Easy:
 
 
 Medium: 
-1. 
+1. abc
 
 
 Hard: 
-1. 
+1. abc
