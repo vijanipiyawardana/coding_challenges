@@ -7,9 +7,9 @@ Easy:
 4. ClosestEnemy
 
 
-Medium:
+Medium: 
 1. 
 
 
-Hard:
+Hard: 
 1. 
