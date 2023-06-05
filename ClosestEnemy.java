@@ -1,12 +1,11 @@
 /*
  * Challenge 3 - ClosestEnemy
-Problem: Write a function that takes in a 1D array, where the integers 1 and 0 represent enemies and empty spaces respectively. The function should find the shortest distance between the player (integer 2) and the nearest enemy (integer 1). The distance can be measured by the number of spaces between the player and the enemy in the horizontal direction.
-For example, given the following array: array = [0, 2, 0, 0, 0, 1, 0, 2, 0]
-The function should return 2, as the nearest enemy is two spaces away from the player horizontally.
-Note:
-The player and enemies can be located anywhere in the array.
-The player will always be present in the array.
-There can be zero or more enemy present in the array.
+Problem: Have the function ClosestEnemy(arr) take the array of numbers stored in arr and from the position 
+in the array where a 1 is, return the number of spaces either left or right you must move to reach an enemy 
+which is represented by a 2. For example: if arr is [0, 0, 1, 0, 0, 2, 0, 2] then your program should return 
+3 because the closest enemy (2) is 3 spaces away from the 1. The array will contain any number of 0's and 2's, 
+but only a single 1. It may not contain any 2's at all as well, where in that case your program should return a
+0. Examples Input: [1, 0, 0, 0, 2, 2, 2] Output: 4 Input: [2, 0, 0, 0, 2, 2, 1, 0] Output: 1
  */
 
  public class ClosestEnemy {
