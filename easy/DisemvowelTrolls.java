@@ -10,11 +10,12 @@ Note: for this kata y isn't considered a vowel.
 class DisemvowelTrolls {
 
     private static String removeVowels(String text) {
-        text = text.replaceAll("[aeiouAEIOU]", "");
-        return text;
+        return text.replaceAll("[aeiouAEIOU]", "");  
     }
 
     public static void main(String args[]) {
         System.out.println(removeVowels("This website is for losers LOL!"));
+        System.out.println(removeVowels("No offense but,\nYour writing is among the worst I've ever read"));
+        System.out.println(removeVowels("What are you, a communist?"));
     }
 }
