@@ -10,7 +10,7 @@ import java.util.stream.Collectors;
 
 public class DigitDigit {
 
-    // using for loops
+    // method 1
     public static int squareDigits(int n) {
 
         String stringNum = Integer.toString(n);
@@ -30,7 +30,7 @@ public class DigitDigit {
         return Integer.parseInt(newStringNum);
     }
 
-    // using streams
+    // method 2
     public static int squareDigitsStream(int n) {
         return Integer.parseInt(String.valueOf(n)
                                       .chars()
