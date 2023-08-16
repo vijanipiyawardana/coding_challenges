@@ -25,8 +25,14 @@ Methods are tested using **jUnit**.
 1. TwoSumTest.java
 
 ## Medium: 
-1. abc
 
+### package [`java`](easy/java)
+1. ReverseInteger.java
+
+### package [`test`](easy/test)
+Contains Test files for Solutions in package [`java`](easy/java) <br>
+Methods are tested using **jUnit**. 
+1. ReverseIntegerTest.java
 
 ## Hard: 
 1. abc

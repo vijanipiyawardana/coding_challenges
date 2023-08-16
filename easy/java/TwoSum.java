@@ -19,3 +19,7 @@ You can return the answer in any order.
         return null;
     }
 }
+
+/* My Solution on LeetCode:
+ * https://leetcode.com/problems/two-sum/solutions/3919834/solution-by-vijani/
+ */
