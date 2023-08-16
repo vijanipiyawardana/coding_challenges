@@ -3,10 +3,18 @@
 ## Easy:
 
 ### package [`main`](easy/main)
+Contains solutions tested with main method. 
 1. Longest Word
 2. Sum Multiplier
-3. Vowel Count
-4. ClosestEnemy
+3. ClosestEnemy
+4. Vowel Count
+5. Disemvowel Trolls
+6. High and low 
+7. Digit * Digit
+8. Regex validate PIN code
+9. Sum of Digits / Digital Root
+10. Password Validator
+11. Hackerrank Problem Solving (Basic) Q2 answer
 
 ### package [`java`](easy/java)
 1. TwoSum.java
