@@ -2,17 +2,17 @@
 
 ## Easy:
 
-### package [`main`]
+### package [`main`](easy/main)
 1. Longest Word
 2. Sum Multiplier
 3. Vowel Count
 4. ClosestEnemy
 
-### package [`java`]
+### package [`java`](easy/java)
 1. TwoSum.java
 
-### package [`test`]
-Contains Test files for Solutions in package [`java`]
+### package [`test`](easy/test)
+Contains Test files for Solutions in package [`java`](easy/java)
 Methods are tested using **jUnit**. 
 1. TwoSumTest.java
 
