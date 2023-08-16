@@ -20,7 +20,7 @@ Contains solutions tested with main method.
 1. TwoSum.java
 
 ### package [`test`](easy/test)
-Contains Test files for Solutions in package [`java`](easy/java)
+Contains Test files for Solutions in package [`java`](easy/java) <br>
 Methods are tested using **jUnit**. 
 1. TwoSumTest.java
 
