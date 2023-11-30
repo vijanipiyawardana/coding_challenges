@@ -1,4 +1,4 @@
-# coding_challenges
+# $${\color{lightgreen}Coding \space Challenges}$$
 
 ## $${\color{yellow}Easy:}$$
 
