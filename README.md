@@ -1,6 +1,6 @@
 # coding_challenges
 
-## Easy:
+## @@ Easy: @@
 
 ### package [`main`](easy/main)
 Contains solutions tested with main method. 
