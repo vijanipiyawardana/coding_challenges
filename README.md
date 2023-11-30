@@ -24,7 +24,8 @@ Contains Test files for Solutions in package [`java`](easy/java) <br>
 Methods are tested using **jUnit**. 
 1. TwoSumTest.java
 
-## Medium: 
+
+## $${\color{yellow}Medium:}$$
 
 ### package [`java`](easy/java)
 1. ReverseInteger.java
@@ -34,5 +35,8 @@ Contains Test files for Solutions in package [`java`](easy/java) <br>
 Methods are tested using **jUnit**. 
 1. ReverseIntegerTest.java
 
-## Hard: 
+
+
+## $${\color{yellow}Hard:}$$
+
 1. abc
