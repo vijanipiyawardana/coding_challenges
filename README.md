@@ -1,6 +1,6 @@
 # coding_challenges
 
-<code style="color : greenyellow"> Easy: </code>
+## <code style="color : gold">Easy:</code>
 
 ### package [`main`](easy/main)
 Contains solutions tested with main method. 
