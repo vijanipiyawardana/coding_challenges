@@ -27,7 +27,7 @@ Methods are tested using **jUnit**.
 ### package [`python`](easy/python)
 Contains solutions in python
 1. Python If-Else
-2. 
+2. Project Euler #1: Multiples of 3 and 5
 
 ## $${\color{yellow}Medium:}$$
 
