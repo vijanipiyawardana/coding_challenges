@@ -24,6 +24,10 @@ Contains Test files for Solutions in package [`java`](easy/java) <br>
 Methods are tested using **jUnit**. 
 1. TwoSumTest.java
 
+### package ['python'](easy/python)
+Contains solutions in python
+1. Python If-Else
+2. 
 
 ## $${\color{yellow}Medium:}$$
 
