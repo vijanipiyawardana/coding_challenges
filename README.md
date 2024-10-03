@@ -28,6 +28,8 @@ Methods are tested using **jUnit**.
 Contains solutions in python
 1. Python If-Else
 2. Project Euler #1: Multiples of 3 and 5
+3. Find the Runner-Up Score!
+4. Nested Lists
 
 ## $${\color{yellow}Medium:}$$
 
